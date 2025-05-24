@@ -44,14 +44,23 @@ npm run dev
 
 
 ├── public/             # Static assets
+
 ├── src/                # Source code
+
 │   ├── components/     # Reusable components
+
 │   ├── App.jsx         # Main application component
+
 │   └── main.jsx        # Entry point
+
 ├── index.html          # HTML template
+
 ├── package.json        # Project metadata and scripts
+
 ├── vite.config.js      # Vite configuration
+
 ├── eslint.config.js    # ESLint configuration
+
 └── README.md           # Project documentation
 
 🧰 Technologies Used

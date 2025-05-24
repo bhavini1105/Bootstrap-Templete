@@ -41,9 +41,8 @@ Start the development server:
 npm run dev
 
 📁 Project Structure
-plaintext
-Copy
-Edit
+
+
 ├── public/             # Static assets
 ├── src/                # Source code
 │   ├── components/     # Reusable components
